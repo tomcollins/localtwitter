@@ -1,0 +1,14 @@
+{
+  "name": "localtwitter",
+  "version": "0.0.1",
+  "description": "localtwitter",
+  "author": "localtwitter",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "devDependencies": {
+    "request": "^2.36.0"
+  }
+}
