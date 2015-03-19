@@ -1,0 +1,7 @@
+{
+  "url": "mongodb://localhost:27017/localtwitter",
+  "collections": {
+    "content": "content",
+    "feed": "feed"
+  }
+}

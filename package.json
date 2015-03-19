@@ -9,6 +9,8 @@
     "url": "git://github.com/"
   },
   "devDependencies": {
-    "request": "^2.36.0"
+    "mongodb": "~2.0",
+    "request": "^2.36.0",
+    "twitter": "^1.2.5"
   }
 }
